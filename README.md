@@ -14,7 +14,9 @@ The dataset used for this project consists of two columns: 'category' and 'messa
 
 The steps taken to achieve an optimal solution of predicting message profitability at a 99% accuracy include:
 
-1. **Data Preprocessing**: The raw text data is preprocessed to remove noise and standardize the text format. This includes tasks such as tokenization, lowercasing, and removing stop words.
+1. **Data Collection**: 
+
+The first step involved gathering the raw text data. 
 
 2. **Feature Extraction**: Relevant features are extracted from the text data to represent messages numerically. TF-IDF vectorization was used to convert text into a format suitable for machine learning algorithms.
 
