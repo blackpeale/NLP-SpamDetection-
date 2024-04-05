@@ -28,5 +28,8 @@ The trained SVC model is deployed using Streamlit, a Python library for building
 
 ## Conclusion
 
-By leveraging NLP techniques and SVC, this project delivers a robust spam detection solution with high accuracy. The deployed application provides users with a valuable tool for enhancing inbox security and improving their digital experience. Future enhancements may include incorporating additional features and exploring advanced machine learning algorithms to further improve accuracy and performance.
+By leveraging NLP techniques and SVC, this project delivers a robust spam detection solution with high accuracy. The deployed application provides users with a valuable tool for enhancing inbox security and improving their digital experience. 
+
+## Instructions
+To use the deployed model, simply visit the deployment link provided above. Enter the messages and the model will accurately classify the messages as either spam or nonspam(ham).
 
